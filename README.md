@@ -2,9 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working with Dr. Aniket Bera at UMD in the problem of pose sequence generation for audio tracks.
+- 🔭 I’m currently interning under Dr. Aniket Bera at University of Maryland (USA) for the problem of pose sequence generation for audio tracks.
 - 🌱 I’m currently learning speech to gesture generation systems
 - 📄 My most recent paper acceptence is in IEEE ICIP 2022
+- 💻 Previous research internships: IIT Kharagpur (India), University of Dayton (Ohio, USA), IIIT-NR (India)
 - 📫 How to reach me: aneeshbhattacharya19@gmail.com
 
 <!--
