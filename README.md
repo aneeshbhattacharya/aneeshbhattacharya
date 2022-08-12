@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently interning under Dr. Aniket Bera at University of Maryland (USA) for the problem of pose sequence generation for audio tracks.
 - 🌱 I’m currently learning speech to gesture generation systems
 - 📄 My most recent paper acceptence is in IEEE ICIP 2022. Please check my "Paper Acceptances" repository for more of my work!
